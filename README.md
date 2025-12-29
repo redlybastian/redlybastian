@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Redly Bastian</h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
-<img aligen="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1693654697~exp=1693655297~hmac=119726bf48b11c315ebae5d012f382f4cbcd4c6f86a364a3ef79b2196acbdac6"
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redbbs2&label=Profile%20views&color=0e75b6&style=flat" alt="redbbs2" /> </p>
